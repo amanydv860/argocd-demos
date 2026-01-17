@@ -12,8 +12,8 @@ spec:
             path: ui_approach/nginx     # path in repo for this app
           - app: online-shop
             path: multicluster/online-shop   # path in repo for this app
-          - app: chaiapp
-            path: applicationsets/chai-app   # path in repo for this app
+          # - app: chaiapp
+          #   path: applicationsets/chai-app   # path in repo for this app
           - app: apache
             path: cli_approach/apache    # path in repo for this app
   # Template that will be used to generate individual Application CRs
